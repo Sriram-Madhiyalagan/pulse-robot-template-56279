@@ -49,14 +49,9 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-500 text-sm">
             © 2025 Synthetic Dev. Built with{" "}
-            <a 
-              href="https://lovable.dev" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="text-pulse-400 hover:underline"
-            >
-              Lovable
-            </a>
+            <span className="text-pulse-400">
+              context
+            </span>
           </p>
         </div>
       </div>

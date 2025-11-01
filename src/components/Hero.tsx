@@ -72,7 +72,7 @@ const Hero = () => {
           <div className="relative max-w-4xl mx-auto">
             <div className="absolute inset-0 bg-gradient-to-t from-dark-800 to-transparent z-10 pointer-events-none"></div>
             <LottieAnimation 
-              animationPath="/loop-header.lottie" 
+              animationPath="/loop-header.json" 
               className="w-full h-auto opacity-90"
             />
           </div>
